@@ -1,0 +1,6 @@
+[
+  {"payout_id":"po_1","kind":"charge","amount":"97.00","currency":"EUR","country":"DE","date":"2026-04-03","reference":"ch_3Ex","text":"Verkauf Digitalprodukt"},
+  {"payout_id":"po_1","kind":"charge","amount":"97.00","currency":"EUR","country":"AT","date":"2026-04-03","reference":"ch_3Ey","text":"Verkauf Digitalprodukt"},
+  {"payout_id":"po_1","kind":"fee","amount":"-3.42","currency":"EUR","date":"2026-04-03","reference":"fee_3Ex","text":"Zahlungsgebuehr"},
+  {"payout_id":"po_1","kind":"refund","amount":"-97.00","currency":"EUR","country":"DE","date":"2026-04-04","reference":"re_3Ez","text":"Erstattung Kaufpreis"}
+]

@@ -1,0 +1,25 @@
+{
+  "consultant_number": "000000",
+  "client_number": "00000",
+  "currency": "EUR",
+  "accounts": {
+    "clearing": "1361",
+    "fee": "6855",
+    "refund": "4736",
+    "dispute": "4739",
+    "revenue": {
+      "DE": "4400",
+      "AT": "4315",
+      "CH": "4338",
+      "default": "4400"
+    }
+  },
+  "tax_keys": {
+    "DE": "",
+    "AT": "20",
+    "CH": "",
+    "default": ""
+  },
+  "fx_corridor": { "min": 0.83, "max": 0.89 },
+  "match_window_days": { "eur": 40, "usd": 3 }
+}

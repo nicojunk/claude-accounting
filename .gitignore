@@ -1,0 +1,6 @@
+accounting.json
+vendors.json
+out/
+documents/
+__pycache__/
+*.pyc
